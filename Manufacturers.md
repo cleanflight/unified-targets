@@ -1,6 +1,6 @@
 # Manufacturer Ids
 
-This is the official list of manufacturer ids (`manufacturer_id` in the target config) that will be supported for loading onto unified targets by Betaflight configurator.
+This is the official list of manufacturer ids (`manufacturer_id` in the target config) that will be supported for loading onto unified targets by Cleanflight configurator.
 
 
 |Manufacturer Id|Name|Contact|

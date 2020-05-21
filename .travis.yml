@@ -11,8 +11,8 @@ git:
 script:
   - make test
 
-# Notifications are encrypted to betaflight/unified-targets to avoid spam from forks
-# Command: `travis encrypt "<secret>" -r betaflight/unified-targets --com`
+# Notifications are encrypted to cleanflight/unified-targets to avoid spam from forks
+# Command: `travis encrypt "<secret>" -r cleanflight/unified-targets --com`
 
 #notifications:
 #  slack:
