@@ -51,6 +51,7 @@
 /configs/default/BKMN-* @blckmn @cleanflight/unified-target-administrators
 /configs/default/CLRA-* @bnn1044 @cleanflight/unified-target-administrators
 /configs/default/DALR-* @nyway @cleanflight/unified-target-administrators
+/configs/default/DAFP-* @DMAXYANG @cleanflight/unified-target-administrators
 /configs/default/DIAT-* @kc10kevin @cleanflight/unified-target-administrators
 /configs/default/DERC-* @DemonRC @cleanflight/unified-target-administrators
 /configs/default/DRCL-* @elin-neo @cleanflight/unified-target-administrators
