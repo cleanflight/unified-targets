@@ -28,3 +28,4 @@ Makefile text eol=lf
 *.txt text eol=lf
 *.sh text eol=lf
 *.config text eol=lf
+.github/CODEOWNERS text eol=lf
