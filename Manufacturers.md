@@ -7,7 +7,8 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |-|-|-|
 |CUST|'Custom', to be used for homebrew targets||
 |FOSS|Free open source target definitions||
-|LEGA|Closed source legacy target without a maintainer||
+|COMM|Community provided target definitions for closed source targets||
+|LEGA|Closed source legacy targets without a maintainer||
 |AFNG|AlienFlight NG|https://www.alienflightng.com/|
 |AIKO|AIKON Electronics|https://www.aikon-electronics.com/|
 |AIRB|Airbot|https://store.myairbot.com/|
@@ -19,9 +20,11 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |DALR|DALRC TECHNOLOGY CO,.LIMITED|http://www.dalrc.cn/DALRC/|
 |DAFP|DarwinFPV|https://darwinfpv.com/|
 |DERC|DemonRC|https://demonrc.eu/|
+|DFRA|Drone FPV Racer|https://www.drone-fpv-racer.com/|
 |DIAT|Diatone Innovations|https://www.diatoneusa.com/|
 |DRCL|dronercland|https://www.instagram.com/dronercland/|
 |DYST|DongYang Smart Technology Co.,Ltd (dys)|http://www.dys.hk/|
+|EACH|eachine|https://www.eachine.com/|
 |EXUA|EXUAV FPV|https://github.com/Linjieqiang|
 |FFPV|Furious FPV|https://furiousfpv.com/|
 |FLCO|Shenzhen Flycolor Electronic Co., LTD|http://www.flycolor.net/|
@@ -37,6 +40,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |HAMO|Happymodel|http://www.happymodel.cn/|
 |HARC|HAKRC|https://github.com/loopur|
 |HBRO|Holybro|http://www.holybro.com/index.html|
+|HEBI|Shenzhen High Energy Bili Co., Ltd.|http://www.coddar.net/|
 |HENA|Heli-Nation|https://www.heli-nation.com/|
 |HFOR|HIFIONRC|http://www.hifionrc.com/|
 |HGLR|HGLRC|https://www.hglrc.com/|
@@ -58,6 +62,7 @@ This is the official list of manufacturer ids (`manufacturer_id` in the target c
 |RAST|Racerstar|https://www.racerstar.com/|
 |RCTI|RCTimer|http://rctimer.com/|
 |RUSH|FPV Racing Rush|http://www.rushfpv.com/|
+|SJET|Shenzhen Jiufang Electronic Technology Co., Ltd.|https://www.jiufang-tech.com/|
 |SKST|Shenzhen SKYSTARS Tech Co., LIMITED|http://www.skystars-rc.com/index.html|
 |SKZO|SkyZone|http://www.skyzonehobbies.com/|
 |SPBE|LangTian Technology (Shenzhen) Co. (SpeedyBee)|https://www.speedybee.com/|

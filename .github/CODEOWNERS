@@ -54,7 +54,9 @@
 /configs/default/DAFP-* @DMAXYANG @cleanflight/unified-target-administrators
 /configs/default/DIAT-* @kc10kevin @cleanflight/unified-target-administrators
 /configs/default/DERC-* @DemonRC @cleanflight/unified-target-administrators
+/configs/default/DFRA-* @mStrangers @cleanflight/unified-target-administrators
 /configs/default/DRCL-* @elin-neo @cleanflight/unified-target-administrators
+/configs/default/EACH-* @EachineRC @cleanflight/unified-target-administrators
 /configs/default/EXUA-* @Linjieqiang @cleanflight/unified-target-administrators
 /configs/default/FLCO-* @tobeornottobe81 @cleanflight/unified-target-administrators
 /configs/default/FLLF-* @flyinglemonfpv @cleanflight/unified-target-administrators
@@ -62,6 +64,7 @@
 /configs/default/FOXE-* @Johnsnow-foxeer @cleanflight/unified-target-administrators
 /configs/default/GEPR-* @Linjieqiang @cleanflight/unified-target-administrators
 /configs/default/GEFP-* @x4FF3 @cleanflight/unified-target-administrators
+/configs/default/HEBI-* @shackelton1978 @cleanflight/unified-target-administrators
 /configs/default/HENA-* @bnn1044 @cleanflight/unified-target-administrators
 /configs/default/HFOR-* @atgfpeyv @cleanflight/unified-target-administrators
 /configs/default/HGLR-* @HGLRC-D @cleanflight/unified-target-administrators
@@ -77,6 +80,7 @@
 /configs/default/PYDR-* @bnn1044 @cleanflight/unified-target-administrators
 /configs/default/RCTI-* @mikeller-test @cleanflight/unified-target-administrators
 /configs/default/RUSH-* @nyway @cleanflight/unified-target-administrators
+/configs/default/SJET-* @star624 @cleanflight/unified-target-administrators
 /configs/default/SKST-* @hongzhou-zeng @cleanflight/unified-target-administrators
 /configs/default/SPCM-* @Linjieqiang @cleanflight/unified-target-administrators
 /configs/default/SPDX-* @DieHertz @cleanflight/unified-target-administrators
